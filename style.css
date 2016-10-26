@@ -1,0 +1,46 @@
+body{
+    font-family: arial;
+    font-size: 60px;
+    font-weight: 700;
+}
+.rect a{
+    color: red;
+    font-size: 15px;
+    font-weight: 900;
+}
+.rect{
+ 
+    width: 450px;
+    height:220px;
+    background-color: rgba(255, 255, 153, 0.87);
+    font-size: 15px;
+}
+.t1{
+    font-family: arial;
+    font-size: 20px;
+}
+.circle{
+    width:50px;
+    height: 50px;
+    background-color: gold;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    font-weight: 700;
+    font-size: 30px;
+    font-family: arial;
+    
+}
+.circle1{
+    width:50px;
+    height: 50px;
+    background-color:red;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    font-weight: 700;
+    font-size: 30px;
+    font-family: arial;
+    color: white;
+    
+}
